@@ -1,0 +1,20 @@
+{
+  "map": [
+    "XXXXXXXXX",
+    "XPX  X  X",
+    "X   X X X",
+    "X X   X X",
+    "X   X   X",
+    "X X  X  X",
+    "X  X  X X",
+    "X X  X VX",
+    "XXXXXXXXX"
+  ],
+  "allowKeyboard": false,
+  "title": "Maze. Level 7",
+  "welcomeMessage": [
+    "Get to the diamond",
+    "Use right(), left(), up(), down()",
+    "No walking through walls"
+  ]
+}
